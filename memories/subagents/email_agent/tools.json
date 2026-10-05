@@ -1,0 +1,40 @@
+{
+  "tools": [
+    {
+      "name": "gmail_read_emails"
+    },
+    {
+      "name": "gmail_send_email"
+    },
+    {
+      "name": "gmail_reply_to_email"
+    },
+    {
+      "name": "gmail_draft_email"
+    },
+    {
+      "name": "gmail_mark_as_read"
+    },
+    {
+      "name": "gmail_archive_email"
+    },
+    {
+      "name": "gmail_trash_email"
+    },
+    {
+      "name": "gmail_get_thread"
+    },
+    {
+      "name": "gmail_create_label"
+    },
+    {
+      "name": "gmail_apply_label"
+    },
+    {
+      "name": "gmail_list_labels"
+    },
+    {
+      "name": "gmail_forward_email"
+    }
+  ]
+}
