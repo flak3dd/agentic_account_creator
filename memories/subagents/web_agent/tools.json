@@ -1,0 +1,10 @@
+{
+  "tools": [
+    {
+      "name": "read_url_content"
+    },
+    {
+      "name": "exa_web_search"
+    }
+  ]
+}
